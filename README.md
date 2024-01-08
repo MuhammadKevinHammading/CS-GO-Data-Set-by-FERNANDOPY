@@ -12,8 +12,10 @@ This dataset has 7 interconnected tables and I will use it for SQL practice. Fir
 
 In the future I will work hard and practice SQL more actively
 
+Update : Adding SQL file and the results on January 8, 2024
+
 Tools : Jupyter Notebook 6.5.4
 
-Dataset: CS:GO Data Set by FERNANDOPY (3 days ago)
+Dataset: CS:GO Data Set by FERNANDOPY (3 Days Ago)
 
 https://www.kaggle.com/datasets/fernandopy/csgo-data-set?select=data
